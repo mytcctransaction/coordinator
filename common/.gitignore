@@ -1,0 +1,12 @@
+.DS_Store
+testdata
+*.log
+.idea/*
+nohup.out
+**/node_modules
+**/*.pdf
+.history
+.vscode
+**/*.class
+target
+*.iml
